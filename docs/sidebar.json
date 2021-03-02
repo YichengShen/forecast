@@ -1,0 +1,7 @@
+{
+  "forecast": {
+    "Overview": "/",
+    "Moving Average Forecast": "moving_avg.html",
+    "Data Transformation": "data_transformation.html"
+  }
+}
