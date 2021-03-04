@@ -4,6 +4,12 @@ __all__ = ['moving_avg', 'mad', 'mse', 'rmse', 'mape', 'cumulative_error', 'chan
            'turning_point_graph']
 
 # Cell
+import pandas as pd
+import numpy as np
+import math
+import matplotlib.pyplot as plt
+
+# Cell
 def moving_avg(n_month, df, df_column):
     """
     Get an array of n-month moving averages.

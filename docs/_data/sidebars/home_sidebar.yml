@@ -15,6 +15,9 @@ entries:
     - output: web,pdf
       title: Data Transformation
       url: data_transformation.html
+    - output: web,pdf
+      title: Pset2
+      url: pset2.html
     output: web
     title: forecast
   output: web
