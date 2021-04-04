@@ -21,6 +21,9 @@ entries:
     - output: web,pdf
       title: Midterm
       url: midterm.html
+    - output: web,pdf
+      title: Pset3
+      url: pset3.html
     output: web
     title: forecast
   output: web
