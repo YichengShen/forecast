@@ -24,6 +24,9 @@ entries:
     - output: web,pdf
       title: Pset3
       url: pset3.html
+    - output: web,pdf
+      title: Final Project
+      url: final_project.html
     output: web
     title: forecast
   output: web
