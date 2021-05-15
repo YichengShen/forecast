@@ -27,6 +27,9 @@ entries:
     - output: web,pdf
       title: Final Project
       url: final_project.html
+    - output: web,pdf
+      title: Final
+      url: final.html
     output: web
     title: forecast
   output: web
